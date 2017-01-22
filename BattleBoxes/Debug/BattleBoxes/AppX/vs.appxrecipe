@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ITS-SO-BIG</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>2a1e3c9d-e71f-4eab-972e-255965abbe69</PackageIdentityName>
+    <IntermediateOutputPath>D:\dev\battleboxes\BattleBoxes\BattleBoxes\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>99D0C8FDA28F41B1816C7F946D3E16AE453A5E1DB9BE427D5469E8C8B07CF0F8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2a1e3c9d-e71f-4eab-972e-255965abbe69_1.0.0.0_x86__4bha6t8v6mmqe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2a1e3c9d-e71f-4eab-972e-255965abbe69_4bha6t8v6mmqe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2a1e3c9d-e71f-4eab-972e-255965abbe69</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\dev\battleboxes\BattleBoxes\Debug\BattleBoxes\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-22T21:35:43.198</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\Debug\BattleBoxes\BattleBoxes.exe">
+      <PackagePath>BattleBoxes.exe</PackagePath>
+      <Modified>2017-01-22T22:52:45.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\Debug\BattleBoxes\BattleBoxes.winmd">
+      <PackagePath>BattleBoxes.winmd</PackagePath>
+      <Modified>2017-01-22T21:23:19.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\BattleBoxes\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T05:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\Debug\BattleBoxes\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2017-01-22T22:40:06.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\Debug\BattleBoxes\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2017-01-22T21:17:38.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\battleboxes\BattleBoxes\Debug\BattleBoxes\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-01-22T21:35:43.139</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
